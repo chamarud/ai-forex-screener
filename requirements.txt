@@ -1,5 +1,5 @@
-streamlit
-yfinance
-pandas<2.2.0
-numpy<2.0.0
-pandas-ta
+streamlit==1.32.0
+yfinance==0.2.37
+pandas==2.1.4
+numpy==1.26.4
+pandas-ta==0.3.14b
